@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "3054771132",
+    "project_id": "resmap-io",
+    "storage_bucket": "resmap-io.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3054771132:android:2dcccdf3abbf898e69e9b9",
+        "android_client_info": {
+          "package_name": "com.resmap.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3054771132-av465vqlls03b449gpb9uf0blv7ftp0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resmap.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "3054771132-3iad3bmod9o7nno071thonkho4sggjh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT-qPt4CalEuk9gvj_Qrmi_AQiGnkYbBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3054771132-3iad3bmod9o7nno071thonkho4sggjh3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3054771132-mloq2enii7mruo19rfumbk52otqpg13g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.resmap.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3054771132:android:754f21e14c9f7db669e9b9",
+        "android_client_info": {
+          "package_name": "com.resmaplandlord.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3054771132-5d26eq8dnea7i76o04ullicg96n4ko8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resmaplandlord.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "3054771132-3iad3bmod9o7nno071thonkho4sggjh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT-qPt4CalEuk9gvj_Qrmi_AQiGnkYbBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3054771132-3iad3bmod9o7nno071thonkho4sggjh3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3054771132-mloq2enii7mruo19rfumbk52otqpg13g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.resmap.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
