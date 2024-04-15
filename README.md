@@ -1,7 +1,4 @@
 # resmap
 
-A new Flutter project.
+Mobile app designed to make accomodation hunting much more easier and accessible to students.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
